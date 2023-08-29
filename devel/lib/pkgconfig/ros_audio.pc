@@ -1,0 +1,8 @@
+prefix=/home/ubunturos/ROS/ROS_SEND/devel
+
+Name: ros_audio
+Description: Description of ros_audio
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
